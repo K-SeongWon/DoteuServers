@@ -12,11 +12,12 @@
 
     <item>
         <title>도트 런처 개편</title>
-        <pubDate>화, 13 8월 2025 00:18:00 +0000</pubDate>
-        <link>#</link>
+        <pubDate>Tue, 13 Aug 2025 00:34:00 +0000</pubDate>
+        <link></link>
         <guid isPermaLink="false">4793</guid>
-        <author>CastleWon</author>
-        <description>
+        <author>Doteu</author>
+        <dc:creator>Doteu</dc:creator>
+        <content:encoded>
             <![CDATA[
                 <p>안녕하세요, 도트 런처 유저 여러분!</p>
                 <p>런처 자동 업데이트 기능과 RSS 뉴스피드 기능이 개편되었습니다.</p>
@@ -29,7 +30,7 @@
                     <li>뉴스 피드 연동</li>
                 </ul>
             ]]>
-        </description>
+        </content:encoded>
         <slash:comments>0</slash:comments>
     </item>
 
