@@ -20,11 +20,10 @@
         <description>
           <div>
             <h2>안녕하세요, 도트 런처 유저 여러분!</h2>
-            <hr>
             <p>런처 자동 업데이트 기능과 RSS 뉴스피드 기능이 개편되었습니다.</p>
             <hr>
             <img src="https://i.imgur.com/2o4jX1M.png" alt="뉴스 피드" style="width: 100%;">
-            <hr>
+            <br>
             <p><b>새로운 기능</b></p>
             <ul>
               <li>깃 허브 릴리즈 연동</li>
