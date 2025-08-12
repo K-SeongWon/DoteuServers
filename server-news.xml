@@ -18,7 +18,7 @@
         <author>Doteu</author>
         <dc:creator>Doteu</dc:creator>
         <description>
-          <![CDATA[<div>
+          <div>
             <h2>안녕하세요, 도트 런처 유저 여러분!</h2>
             <hr>
             <p>런처 자동 업데이트 기능과 RSS 뉴스피드 기능이 개편되었습니다.</p>
@@ -34,7 +34,7 @@
             <p>자세한 내용은 <a href="https://github.com/K-SeongWon/DoteuLauncher/releases/tag/1.0.4">Github 릴리즈</a>에서 확인하세요.</p>
             <hr>
             <p>도트 런처의 발전은 계속됩니다...</p>
-          </div>]]>
+          </div>
         </description>
         <slash:comments>0</slash:comments>
     </item>
