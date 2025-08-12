@@ -17,7 +17,7 @@
         <guid isPermaLink="false">4793</guid>
         <author>Doteu</author>
         <dc:creator>Doteu</dc:creator>
-        <content:encoded>
+        <description>
           <![CDATA[<div>
             <h2>안녕하세요, 도트 런처 유저 여러분!</h2>
             <hr>
@@ -35,7 +35,7 @@
             <hr>
             <p>도트 런처의 발전은 계속됩니다...</p>
           </div>]]>
-        </content:encoded>
+        </description>
         <slash:comments>0</slash:comments>
     </item>
 
